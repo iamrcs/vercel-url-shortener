@@ -1,0 +1,14 @@
+flask
+flask-cors
+flask-sqlalchemy
+flask-limiter
+flask-caching
+gunicorn
+psycopg2-binary
+redis
+rq
+apscheduler
+pydantic
+python-dotenv
+requests
+flask-wtf
